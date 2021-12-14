@@ -8,12 +8,12 @@
 
 <h2>プロジェクトを動かすガイド</h2>
 <ol>
-　<li>パッケージをダウンロードして、projectPHP.zipを解凍する</li>
+　<li>パッケージをダウンロードし、展開した後、projectPHP.zipを展開する</li>
   <li>
   <b>環境の設定</b>
     <ul>
       <li>XAMPPが必要です（ダウンロードリンク：「https://www.apachefriends.org/jp/download.html」）</li>
-      <li>XAMPPをダウンロードした後、xamppのフォルダーにあるhtdocsという子フォルダー(xampp/htdocs)の中にステップ１で解凍したprojectPHPフォルダーを置く(xampp/htdocs/projectPHP)</li>
+      <li>XAMPPをダウンロードした後、xamppのフォルダーにあるhtdocsという子フォルダー(xampp/htdocs)の中にステップ１で展開したprojectPHPフォルダーを置く(xampp/htdocs/projectPHP)</li>
     </ul>
   </li>
   <li><b>データベースの設定</b>
